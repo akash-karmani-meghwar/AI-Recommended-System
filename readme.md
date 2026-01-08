@@ -1,30 +1,5 @@
 
-
-Here is a refined, "proper" version of the `README.md`. This version follows professional open-source standards, with clear sections, badges, formatting, and a structured workflow explanation.
-
-***
-
 # 🎬 Content-Based Movie Recommender System
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-NLP-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-A robust content-based recommendation engine designed to suggest movies based on textual metadata. By analyzing plot summaries, genres, keywords, cast, and crew, this system identifies similar movies using Natural Language Processing (NLP) and Cosine Similarity.
-
-## 📑 Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Tech Stack](#tech-stack)
-- [Installation & Setup](#installation--setup)
-- [How It Works](#how-it-works)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Workflow](#workflow)
-
----
 
 ## 🚀 Overview
 
@@ -154,8 +129,6 @@ Moon
 ├── README.md                      # Project documentation
 ├── tmdb_5000_movies.csv           # Dataset (to be added by user)
 ├── tmdb_5000_credits.csv          # Dataset (to be added by user)
-├── movie_list.pkl                 # Output: Processed movie data
-└── similarity.pkl                 # Output: Similarity matrix
 ```
 
 ## 🔄 Workflow
